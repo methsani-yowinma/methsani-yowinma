@@ -3,6 +3,11 @@
   <!-- Capsule Header -->
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%23FF6EC7,%2336D1DC,%23FFDE59&height=200&section=header&text=Methsani%20Yowinma&fontSize=55&fontColor=fff)
+<!-- Capsule Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%23FFB6C1,%23DA70D6,%23FFC0CB&height=200&section=header&text=Methsani%20Yowinma&fontSize=55&fontColor=fff&animation=twinkling&desc=BIS%20Undergraduate%20|%20Fullstack%20%26%20Cybersecurity%20Explorer&descAlignY=60&descSize=20" alt="Capsule Header"/>
+</p>
+
 
 
 
