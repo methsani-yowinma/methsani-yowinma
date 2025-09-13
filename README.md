@@ -2,10 +2,15 @@
 
   <!-- Capsule Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%23FF6EC7,%2336D1DC,%23FFDE59&height=200&section=header&text=Methsani%20Yowinma&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Fullstack%20%26%20Cybersecurity%20Explorer&descAlignY=55&descSize=20" />
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Methsani;Business+Information+Systems+Undergraduate;Fullstack+Developer+in+Progress;Cybersecurity+Enthusiast;Loves+Data+Visualization+%26+Design" alt="Typing SVG"/>
-  </h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%23FF6EC7,%2336D1DC,%23FFDE59&height=200&section=header&text=Methsani%20Yowinma&fontSize=55&fontColor=fff)
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Methsani;Business+Information+Systems+Undergraduate;Fullstack+Developer+in+Progress;Cybersecurity+Enthusiast;Loves+Data+Visualization+%26+Design" alt="Typing SVG"/>
+</h1>
+
+  
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=methsani-yowinma&style=flat-square&color=FF69B4" alt="Profile views"/>
