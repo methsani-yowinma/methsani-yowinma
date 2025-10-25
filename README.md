@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="42"> About Me  
+## <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="40"> About Me  
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
