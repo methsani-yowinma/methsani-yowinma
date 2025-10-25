@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="45"> About Me  
+## <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="44"> About Me  
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -57,6 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
 ### 🔹 Data Visualization  
