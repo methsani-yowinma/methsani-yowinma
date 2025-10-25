@@ -26,9 +26,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="35"> About Me  
+## <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="40"> About Me  
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🎓 Currently pursuing **BSc (Hons) Business Information Systems** @ USJ  
 - 💻 Interested in **Fullstack Development & Cybersecurity**  
