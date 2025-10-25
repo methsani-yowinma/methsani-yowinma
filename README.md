@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src ="https://www.php.net/images/logos/new-php-logo.png" width="40"/>
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 </p>
 
 ### 🔹 Databases & Cloud  
