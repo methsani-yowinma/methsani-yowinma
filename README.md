@@ -79,6 +79,24 @@
 
 ---
 
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=methsani-yowinma&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>  
+
+---
+
+## 🌟My Coding Footprint 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=methsani-yowinma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="500"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methsani-yowinma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
+</div>
+
+---
+
 ## 🌐 Connect with Me  
 
 <div align="center">
@@ -90,19 +108,5 @@
   </a>
 </div>
 
-## 🌟My Coding Footprint 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=methsani-yowinma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="500"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methsani-yowinma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
-</div>
-
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=methsani-yowinma&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>  
-
----
