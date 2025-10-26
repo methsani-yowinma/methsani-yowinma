@@ -97,3 +97,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+## 🌟My Coding Footprint 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=methsani-yowinma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="500"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methsani-yowinma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
+</div>
