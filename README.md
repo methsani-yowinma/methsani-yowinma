@@ -79,14 +79,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=methsani-yowinma&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>  
-
----
-
 ## 🌐 Connect with Me  
 
 <div align="center">
@@ -104,3 +96,13 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methsani-yowinma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
 </div>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=methsani-yowinma&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>  
+
+---
